@@ -39,7 +39,7 @@ Criação de uma tabela final consolidada, já pronta para análises e visualiza
 ---
 
 ## 📊 Diagrama de Relacionamento
-<img src= "https://github.com/Vivian-M03/olist-etl-project/blob/main/Imagens/Official_Entity_Relationship_Diagram_OLIST.jpg"
+<img src= "https://github.com/Vivian-M03/olist-etl-project/blob/main/Imagens/Official_Entity_Relationship_Diagram_OLIST.jpg">
 
 > Você pode salvar o diagrama como `diagrama_relacionamento.png` dentro do repositório e ajustar o link acima, por exemplo: `./diagrama_relacionamento.png`
 
