@@ -40,12 +40,14 @@ Criação de uma tabela final consolidada, já pronta para análises e visualiza
 
 ## 📊 Diagrama de Relacionamento
 <img src= "https://github.com/Vivian-M03/olist-etl-project/blob/main/Imagens/Official_Entity_Relationship_Diagram_OLIST.jpg">
+
 ---
 
 ## 🚀 Tecnologias Utilizadas
 - SQL (linguagem de manipulação e transformação de dados)
-- Banco de Dados Relacional (ex: MySQL, PostgreSQL, SQL Server — adaptável)
+- Banco de Dados Relacional (SQL Server)
 - Git e GitHub para versionamento
+- Miro: Criação do diagrama de relacionamento
 
 ---
 
@@ -54,14 +56,6 @@ Este projeto foi criado para:
 - Praticar a construção de um pipeline ETL completo usando SQL.
 - Reforçar o uso de boas práticas na criação de chaves primárias, estrangeiras e modelagem relacional.
 - Simular um case real de tratamento de dados de e-commerce para análises.
-
----
-
-## 💡 Como Utilizar
-1. Clone este repositório.
-2. Execute os scripts de criação de chaves (`PRIMARY_KEY` e `FOREIGN_KEY`).
-3. Execute o script `Processo_ETL.sql` para gerar a tabela consolidada.
-4. Pronto! Sua tabela final estará disponível para análises.
 
 ---
 
